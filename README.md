@@ -1,5 +1,10 @@
-### Hey! This is Ali Alharbi— 👋🏻
-## an Android developer, and music enthusiast. 👨🏻‍💻🎧
+# Hey! This is Ali Alharbi— 👋🏻
+### Android developer, and music enthusiast.
+- 🔭 I’m currently working on an Android app dedicated to the football community.
+- 🌱 I’m currently learning Jetpack Compose.
+- 📫 How to reach me:
+ <br />• 📩 <a href = "mailto: alif.harbi@gmail.com">Email</a>
+ <br />• 🔵 <a href="https://www.linkedin.com/in/ali-harbi/">LinkedIn</a>
 
 <!--
 **pickleali/pickleali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
